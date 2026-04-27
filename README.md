@@ -94,3 +94,9 @@ Educational use.
 
 Alta3 Research Training Project
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
+
